@@ -3,6 +3,16 @@ class Test
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("My Name Is Mobarak Hossain. \n I am 30 years old. \n I am a full-stack developer");
+        double salary = 100000.45;
+        Console.WriteLine("Salary: " + salary);
+
+        int salary2 = (int)salary;
+        Console.WriteLine("Salary: " + salary2);
     }
 }
+
+// Implicit / Automatic casting 
+// Explicit / Manual casting
+
+// ছোট থেকে বড় হলে আটোমেটিক কাস্টিং বা চেংজ হয়।
+// বড় থেকে ছোট হলে ্মেনুয়াল কাস্টিং করতে হয়।

@@ -12,3 +12,4 @@ C:\Users\Mobarak\Desktop\learn-csharp\obj\Debug\net10.0\refint\learn-csharp.dll
 C:\Users\Mobarak\Desktop\learn-csharp\obj\Debug\net10.0\learn-csharp.pdb
 C:\Users\Mobarak\Desktop\learn-csharp\obj\Debug\net10.0\learn-csharp.genruntimeconfig.cache
 C:\Users\Mobarak\Desktop\learn-csharp\obj\Debug\net10.0\ref\learn-csharp.dll
+C:\Users\Mobarak\Desktop\learn-csharp\obj\Debug\net10.0\learn-csharp.sourcelink.json
