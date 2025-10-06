@@ -3,16 +3,16 @@ class Test
 {
     public static void Main(string[] args)
     {
-        double salary = 100000.45;
-        Console.WriteLine("Salary: " + salary);
+        string? studentName;
+        int studentAge;
 
-        int salary2 = (int)salary;
-        Console.WriteLine("Salary: " + salary2);
+        Console.WriteLine("Enter your name: ");
+        studentName = Console.ReadLine();
+
+        Console.WriteLine("Enter your age: ");
+        studentAge = Convert.ToInt32(Console.ReadLine());
+
+        Console.WriteLine("Name:  " + studentName);
+        Console.WriteLine("Age: " + studentAge);
     }
 }
-
-// Implicit / Automatic casting 
-// Explicit / Manual casting
-
-// ছোট থেকে বড় হলে আটোমেটিক কাস্টিং বা চেংজ হয়।
-// বড় থেকে ছোট হলে ্মেনুয়াল কাস্টিং করতে হয়।
