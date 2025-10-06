@@ -1,0 +1,14 @@
+C:\Users\Mobarak\Desktop\learn-csharp\bin\Debug\net10.0\learn-csharp.exe
+C:\Users\Mobarak\Desktop\learn-csharp\bin\Debug\net10.0\learn-csharp.deps.json
+C:\Users\Mobarak\Desktop\learn-csharp\bin\Debug\net10.0\learn-csharp.runtimeconfig.json
+C:\Users\Mobarak\Desktop\learn-csharp\bin\Debug\net10.0\learn-csharp.dll
+C:\Users\Mobarak\Desktop\learn-csharp\bin\Debug\net10.0\learn-csharp.pdb
+C:\Users\Mobarak\Desktop\learn-csharp\obj\Debug\net10.0\learn-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mobarak\Desktop\learn-csharp\obj\Debug\net10.0\learn-csharp.AssemblyInfoInputs.cache
+C:\Users\Mobarak\Desktop\learn-csharp\obj\Debug\net10.0\learn-csharp.AssemblyInfo.cs
+C:\Users\Mobarak\Desktop\learn-csharp\obj\Debug\net10.0\learn-csharp.csproj.CoreCompileInputs.cache
+C:\Users\Mobarak\Desktop\learn-csharp\obj\Debug\net10.0\learn-csharp.dll
+C:\Users\Mobarak\Desktop\learn-csharp\obj\Debug\net10.0\refint\learn-csharp.dll
+C:\Users\Mobarak\Desktop\learn-csharp\obj\Debug\net10.0\learn-csharp.pdb
+C:\Users\Mobarak\Desktop\learn-csharp\obj\Debug\net10.0\learn-csharp.genruntimeconfig.cache
+C:\Users\Mobarak\Desktop\learn-csharp\obj\Debug\net10.0\ref\learn-csharp.dll
